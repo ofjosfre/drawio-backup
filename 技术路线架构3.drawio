@@ -154,6 +154,18 @@
         <mxCell id="fd8dLlf863vhwkd32KcG-50" value="SCADA接口安全转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="307" width="62.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HVE4h9VCjMQVyQTYWXVU-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#007FFF;fillStyle=solid;width=17;endSize=4.44;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347.5" y="230" as="sourcePoint" />
+            <mxPoint x="347.5" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVE4h9VCjMQVyQTYWXVU-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#007FFF;fillStyle=solid;width=17;endSize=4.44;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="343" y="446" as="sourcePoint" />
+            <mxPoint x="343" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
